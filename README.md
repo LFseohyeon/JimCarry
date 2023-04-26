@@ -1,4 +1,4 @@
-# JimCarry - <a href="http://www.jimcarry.site">바로가기</a>
+# JimCarry - <a href="http://www.jimcarry.store/">바로가기</a>
 스프링 부트 : 공유 창고 중개 서비스
 
 ## :desktop_computer: 프로젝트 소개
